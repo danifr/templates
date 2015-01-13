@@ -1,0 +1,14 @@
+Dear user,
+
+The compute node that is running one or more of your virtual machines:
+
+$vmnames
+
+has developed a serious problem, and cannot be restarted.
+
+Your cannot be recovered. Please delete it from
+your project, to recuperate the associated quota.
+
+We are sorry for this inconvenience,
+
+      best regards, the XXXX Cloud Infrastructure team
