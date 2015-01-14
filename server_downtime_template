@@ -6,7 +6,7 @@ Virtual Machine
 $vmnames
 
 In order to fix the problem, we need to intervene on the compute node.
-The intervention will take place on Friday, January 16. Your server will
+The intervention will take place on $date. Your server will
 not be available for up to $duration hours, starting at 10:00.
 
 We are sorry for any inconvenience,
