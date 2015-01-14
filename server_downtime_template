@@ -1,3 +1,4 @@
+server_downtime_template affecting your machines: $vmnames
 Dear OpenStack user,
 
 We have identified a problem in the compute node that is running your

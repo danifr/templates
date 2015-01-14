@@ -1,3 +1,4 @@
+server_is_dead_template regading your machines: $vmnames
 Dear user,
 
 The compute node that is running one or more of your virtual machines:
