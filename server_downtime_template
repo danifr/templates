@@ -1,4 +1,3 @@
-server_downtime_template affecting your machines: $vmnames
 <html>
 Dear OpenStack user,
 
