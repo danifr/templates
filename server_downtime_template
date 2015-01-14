@@ -1,15 +1,17 @@
 server_downtime_template affecting your machines: $vmnames
+<html>
 Dear OpenStack user,
 
-We have identified a problem in the compute node that is running your
-Virtual Machine
+<p>We have identified a problem in the compute node that is running your
+Virtual Machine</p>
 
-<b>$vmnames</b>
+<b>$vmnames</b></br>
 
-In order to fix the problem, we need to intervene on the compute node.
+<p>In order to fix the problem, we need to intervene on the compute node.
 The intervention will take place on <b>$date</b>. Your server will
-not be available for up to <b>$duration</b> hours, starting at <b>$hour</b>.
+not be available for up to <b>$duration</b> hours, starting at <b>$hour</b>.</p>
 
-We are sorry for any inconvenience,
+<p>We are sorry for any inconvenience,</br>
 
-best regards, the CERN Cloud Infrastructure team
+best regards, the <a href="http://information-technology.web.cern.ch/book/cern-private-cloud-user-guide">CERN Cloud Infrastructure team</a>
+</html>
