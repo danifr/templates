@@ -4,11 +4,11 @@ Dear OpenStack user,
 We have identified a problem in the compute node that is running your
 Virtual Machine
 
-<strong>$vmnames</strong>
+<b>$vmnames</b>
 
 In order to fix the problem, we need to intervene on the compute node.
-The intervention will take place on <strong>$date</strong>. Your server will
-not be available for up to <strong>$duration</strong> hours, starting at <strong>$hour</strong>.
+The intervention will take place on <b>$date</b>. Your server will
+not be available for up to <b>$duration</b> hours, starting at <b>$hour</b>.
 
 We are sorry for any inconvenience,
 
