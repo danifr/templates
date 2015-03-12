@@ -3,7 +3,7 @@ Dear OpenStack user,
 We have identified a problem in the compute node that is running your
 Virtual Machine
 
-$vmname
+$vms
 
 In order to fix the problem, we need to intervene on the compute node.
 

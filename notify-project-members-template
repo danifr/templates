@@ -1,7 +1,6 @@
 Dear user,
 
-We have identified a problem in project '$project' that contains running your
-Virtual Machine.
+We have identified a problem in your project(s) '$project' that contains the following of your machines.
 
 $vms
 

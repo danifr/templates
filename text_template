@@ -1,9 +1,6 @@
 Dear user,
 
-The compute node that is running one or more of your virtual machines:
-
-$vmnames
-
+The compute node that is running one or more of your virtual machines 
 has developed a serious problem, and cannot be restarted.
 
 Your cannot be recovered. Please delete it from
