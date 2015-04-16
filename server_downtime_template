@@ -7,6 +7,9 @@ $vms
 
 In order to fix the problem, we need to intervene on the compute node.
 
+The intervention will take place on $date. Your server will
+not be available for up to $duration hours, starting at $hour.
+
 We are sorry for any inconvenience,
 
 best regards, the Cloud Infrastructure team
